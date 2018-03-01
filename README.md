@@ -12,6 +12,13 @@ Install dependencies thanks to setup.py
 $ python setup.py
 ```
 
+<p align="center">
+  <img src="docs/correlation.png"/>
+</p>
+
+Submission file:
+> data/submission/submission.csv
+
 License
 ----
 MIT
