@@ -12,9 +12,27 @@ Install dependencies thanks to setup.py
 $ python setup.py
 ```
 
+### Features importance
+<p align="center">
+  <img src="docs/features_importance.png"/>
+</p>
+
+### Correlation
 <p align="center">
   <img src="docs/correlation.png"/>
 </p>
+
+### Pred vs True
+<p align="center">
+  <img src="docs/prediction_vs_real.png"/>
+</p>
+
+### Score
+```
+RMSLE: 0.041
+RMSE: 0.066
+Adjusted R²: 0.705
+```
 
 Submission file:
 > data/submission/submission.csv
